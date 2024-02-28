@@ -70,6 +70,12 @@ Run：
 pnpm tauri dev
 ```
 
+build：
+
+```shell
+pnpm tauri build
+```
+
 Please go to the [Tauri](https://github.com/tauri-apps/tauri) project for more information.
 
 ## Contribute
